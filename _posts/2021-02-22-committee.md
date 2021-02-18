@@ -9,11 +9,13 @@ fa-icon: users
 
 Abhinav Bhatele, University of Maryland, College Park, USA\\
 David Boehme, Lawrence Livermore National Laboratory, USA\\
-Markus Geimer, Juelich Supercomputing Centre, Germany\\
-Andreas Knuepfer, ZIH, Technical University Dresden, Germany
+Anthony Danalis, University of Tennessee, Knoxville, USA
 
 ## Program Committee
 
+To be announced.
+
+<!--
 Jean-Baptiste Besnard, Paratools, France\\
 Harsh Bhatia, Lawrence Livermore National Laboratory, USA\\
 Holger Brunst, TU Dresden, Germany\\
@@ -34,3 +36,4 @@ Martin Schulz, TU Munich, Germany\\
 Nathan Tallent, Pacific Northwest National Laboratory, USA\\
 Gerhard Wellein, FAU, Germany\\
 Brian J. N. Wylie, Juelich Supercomputing Centre, Germany\\
+-->
