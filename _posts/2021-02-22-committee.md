@@ -13,27 +13,21 @@ Anthony Danalis, University of Tennessee, Knoxville, USA
 
 ## Program Committee
 
-To be announced.
-
-<!--
-Jean-Baptiste Besnard, Paratools, France\\
-Harsh Bhatia, Lawrence Livermore National Laboratory, USA\\
-Holger Brunst, TU Dresden, Germany\\
-Alexandru Calotoiu, TU Darmstadt, Germany\\
-Karl Fuerlinger, LMU Munich, Germany\\
-Todd Gamblin, Lawrence Livermore National Laboratory, USA\\
-Michael Gerndt, TU Munich, Germany\\
-Judit Gimenez, Barcelona Supercomputing Centre, Spain\\
-Kevin Huck, University of Oregon, USA\\
-Kate Isaacs, University of Arizona, USA\\
-Joshua A. Levine, University of Arizona, USA\\
-John Linford, ARM Ltd\\
-Allen Malony, University of Oregon, USA\\
-Barton Miller, University of Wisconsin-Madison, USA\\
-Heidi Poxon, Cray / Hewlett Packard Enterprise, USA\\
-Paul Rosen, University of South Floriday, USA\\
-Martin Schulz, TU Munich, Germany\\
-Nathan Tallent, Pacific Northwest National Laboratory, USA\\
-Gerhard Wellein, FAU, Germany\\
-Brian J. N. Wylie, Juelich Supercomputing Centre, Germany\\
--->
+Andreas Knuepfer, TU Dresden
+Brian Wylie, Juelich Supercomputing Centre
+Gerhard Wellein, FAU Erlangen-Nuernberg
+Jean-Baptiste Besnard, Paratools
+John Mellor-Crummey, Rice University
+Jonathan Madsen, Lawrence Berkeley National Lab
+Judit Gimenez, Barcelona Supercomputing Centre
+Karl Fuerlinger, LMU Munich
+Kate Isaacs, University of Arizona
+Kevin Huck, University of Oregon
+Marc-Andre Hermanns, RWTH aachen
+Markus Geimer, Juelich Supercomputing Centre
+Martin Schulz, TU Munich
+Michael Gerndt, TU Munich
+Nathan Tallent, Pacific Northwest National Laboratory
+Paul Rosen, University of South Florida
+Stephanie Brink, Lawrence Livermore National Laboratory
+Tanzima Islam, Texas State University
