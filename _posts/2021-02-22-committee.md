@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-bg: "#CF4E4E"
+bg: "#2F3446"
 color: white
 fa-icon: users
 ---
